@@ -1,0 +1,45 @@
+{
+  "name": "edison-io",
+  "description": "Edison IO",
+  "version": "0.3.9",
+  "homepage": "https://github.com/rwaldron/edison-io",
+  "author": {
+    "name": "Rick Waldron <waldron.rick@gmail.com>",
+    "email": "waldron.rick@gmail.com"
+  },
+  "contributors": [],
+  "keywords": [
+    "edison",
+    "galileo",
+    "io",
+    "arduino",
+    "intel",
+    "firmata",
+    "johnny-five"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rwaldron/edison-io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rwaldron/edison-io/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/rwaldron/edison-io/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/edison",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "galileo-io": "latest"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "js-flags": "--harmony"
+}
