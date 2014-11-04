@@ -1,7 +1,5 @@
 # Edison-IO
 
-[![Build Status](https://travis-ci.org/rwaldron/galileo-io.png?branch=master)](https://travis-ci.org/rwaldron/galileo-io)
-
 Edison-IO is an alias module for [Galileo-IO](https://github.com/rwaldron/galileo-io). 
 
 ### Usage
