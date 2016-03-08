@@ -1,7 +1,7 @@
 {
   "name": "edison-io",
   "description": "Intel Edison & Intel Galileo IO Plugin for Johnny-Five JavaScript Robotics",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "homepage": "https://github.com/rwaldron/edison-io",
   "author": {
     "name": "Rick Waldron <waldron.rick@gmail.com>",
@@ -9,8 +9,22 @@
   },
   "contributors": [],
   "keywords": [
-    "intel", "edison", "galileo", "io", "arduino", "firmata", "johnny-five", "mraa", "upm",
-    "i2c", "xadow", "sparkfun", "dfrobot", "robot", "romeo", "expansion"
+    "intel",
+    "edison",
+    "galileo",
+    "io",
+    "arduino",
+    "firmata",
+    "johnny-five",
+    "mraa",
+    "upm",
+    "i2c",
+    "xadow",
+    "sparkfun",
+    "dfrobot",
+    "robot",
+    "romeo",
+    "expansion"
   ],
   "repository": {
     "type": "git",
@@ -32,7 +46,6 @@
   "dependencies": {
     "galileo-io": "0.9.2"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "js-flags": "--harmony"
 }
