@@ -1,19 +1,18 @@
-# Edison-IO
+# Joule-IO
 
-Edison-IO is an alias module for [Galileo-IO](https://github.com/rwaldron/galileo-io). 
+Joule-IO is an alias module for using Intel's Joule with Johnny-Five. It's an alias because it points directly to Galileo-IO.
 
 ### Usage
 
 ```js
 var five = require("johnny-five");
-var Edison = require("edison-io");
+var Joule = require("edison-io");
 var board = new five.Board({
-  io: new Edison()
+  io: new Joule()
 });
 
 board.on("ready", function() {
-  var led = new five.Led(13);
-  led.blink();
+  // ... 
 });
 ```
 
