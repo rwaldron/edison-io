@@ -39,13 +39,11 @@
       "url": "https://github.com/rwaldron/edison-io/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "lib/edison",
+  "main": "index.js",
   "engines": {
     "node": "latest"
   },
   "dependencies": {
-    "galileo-io": "0.9.4"
-  },
-  "scripts": {},
-  "js-flags": "--harmony"
+    "galileo-io": "^0.10.0"
+  }
 }
