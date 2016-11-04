@@ -1,7 +1,7 @@
 {
   "name": "joule-io",
   "description": "Intel Joule, Intel Edison & Intel Galileo IO Plugin for Johnny-Five JavaScript Robotics",
-  "version": "0.9.4",
+  "version": "0.10.0",
   "homepage": "https://github.com/rwaldron/joule-io",
   "author": {
     "name": "Rick Waldron <waldron.rick@gmail.com>",
